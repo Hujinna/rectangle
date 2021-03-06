@@ -1,0 +1,15 @@
+*{
+  padding:0;
+  margin:0;
+}
+#main{
+  width:250px;
+  margin:50px auto;
+}
+input,label{
+  margin:5px 0;
+}
+#calc{
+  width:80px;
+  margin-left:53px;
+}
